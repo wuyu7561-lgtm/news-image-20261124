@@ -15,7 +15,7 @@ import os
 import sys
 
 # Final poster chosen by the team. To switch versions, change this one line.
-SOURCE_NAME = "v2-a.jpg"
+SOURCE_NAME = "v2-b.jpg"
 
 OUTPUT_PATH = os.environ.get("ENTRY_OUTPUT", "/output/entry.png")
 
